@@ -1,6 +1,6 @@
 #### ValueBar
 
-Custom Valuebar view
+Custom Android Valuebar view
 ------
 
 ![alt text](https://github.com/morteza-mgh/assets/raw/main/RangeBar-screen.png)

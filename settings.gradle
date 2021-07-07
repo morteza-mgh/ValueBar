@@ -1,0 +1,3 @@
+rootProject.name = "ValueBar"
+include ':app'
+include ':ValueBarSelector'

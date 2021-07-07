@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ValueBar">
+        <attr name="selectorColor" format="color"/>
+        <attr name="bgValueBarColor" format="color"/>
+        <attr name="crossLineColor" format="color"/>
+        <attr name="unitNameLabel" format="string" />
+        <attr name="min" format="integer"/>
+        <attr name="max" format="integer"/>
+        <attr name="progress" format="integer"/>
+        <attr name="popMsgTextSize" format="dimension"/>
+        <attr name="barThicknessSize" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>

@@ -55,3 +55,6 @@ allprojects{
  or constrain layout.
 
 2- Specify appropriate size for attr:`popMsgTextSize`
+
+------
+You can set a `OnProgressChangeListener` to the object of ValueBar to notify the last selected value.
